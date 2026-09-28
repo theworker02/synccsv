@@ -22,8 +22,9 @@
   "keywords": [
     "sync",
     "csv",
-    "csv",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
